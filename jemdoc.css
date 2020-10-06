@@ -8,11 +8,14 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: 'Open Sans', sans-serif;
-/*	font-family: Georgia, serif;*/
-	padding-bottom: 8px;
+	font-family: 'Pacifico', sans-serif;
+	/*font-family: 'Open Sans', sans-serif;*/
+	/* font-family: Georgia, serif;*/
+	padding-left: 8px;
+	padding-bottom: 32px;
+	padding-right: 8px;
 	margin: 0;
-  max-width: 1240px;
+    max-width: 1280px;
 }
 
 #layout-menu {
